@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Hymn to be sung in the procession at St. Georges-feast instead of the the letany composed by an order of the sovereign, and the companions of the most noble and honourable Order of the Garter, in a chapter held at Windsor, April the xvii, 1661.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45292</idno><idno type="EEBO-CITATION">27125202</idno>
+  <idno type="VID">109978</idno>
+  <idno type="EEBO-PROQUEST">2240889714</idno>
+  
+            <idno type="STC">Wing H3883</idno>
+            <idno type="STC">ESTC R229123</idno>
+            <idno type="OCLC">27125202</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109978)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1721:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Hymn to be sung in the procession at St. Georges-feast instead of the the letany composed by an order of the sovereign, and the companions of the most noble and honourable Order of the Garter, in a chapter held at Windsor, April the xvii, 1661.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Saint George's Day --  England.</term>
+               <term type="topical_term">Fasts and feasts --  Church of England.</term>
+               <term type="topical_term">Fasts and feasts --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109978:1"/>
+            <p>AN HYMN To be sung in the PROCESSION AT S<seg rend="sup">t.</seg>
+               <hi>GEORGE'S</hi>-FEAST instead of the LETANY; Composed by an <hi>Order</hi> of the <hi>Sovereign,</hi> and the <hi>Companions</hi> of the most Noble and Honour<g ref="char:EOLhyphen"/>able <hi>Order</hi> of the GARTER, in a CHAPTER held at VVINDSOR APRIL the xvii, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="hymn">
+            <pb facs="tcp:109978:2"/>
+            <pb facs="tcp:109978:2"/>
+            <head>An HYMN to be sung in the PROCESSION at St. GEORGE'S-FEAST instead of the <hi>LETANY.</hi>
+            </head>
+            <div type="part">
+               <p>
+                  <bibl rend="small">
+                     <hi>Judg.</hi> 5.3</bibl>
+                  <seg rend="decorInit">H</seg>EAR, O ye Kings; give ear, O ye Princes: I, even I will sing unto the Lord; I will sing Praises unto the God of <hi>Israel.</hi>
+               </p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 18.2.</bibl> The Lord is my Rock, and my Fortress, and my Deliverer, my God, my Strength, in whom I trust: my Buckler, the Horn of my Salvation, and my high Tower.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Exod.</hi> 15.2.</bibl> The Lord is my Strength, and my Song: and he is become my Salvation. </p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Exod.</hi> 15.6.</bibl> The Right hand of the Lord is become Glorious in Power: The Right hand of the Lord hath dashed in pieces the Enemy.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Exod.</hi> 15.7.</bibl> In the greatness of thy Excellency thou hast overthrown them; that rose up against thee: who is like unto thee, O Lord, amongst the Gods: who is like unto thee, glorious in Holiness, fearfull in praises, doing Wonders.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 81.1.</bibl> Sing aloud therefore unto God, our Strength: make a Joy<g ref="char:EOLhyphen"/>full Noise to the God of <hi>Jacob.</hi>
+               </p>
+            </div>
+            <div type="chorus">
+               <head>CHORUS.</head>
+               <q>
+                  <p>I will sing unto the Lord: for he hath triumphed glo<g ref="char:EOLhyphen"/>riously: <bibl>
+                        <hi>Exod. 15.1.</hi>
+                     </bibl>
+                  </p>
+                  <p>To day will we sing this Song, We have a strong City: Salvation will God appoint for Walls, and Bulwarks▪ <bibl>
+                        <hi>Isay. 26.1.</hi>
+                     </bibl>
+                  </p>
+               </q>
+            </div>
+            <div type="part">
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 47.9.</bibl> The Princes of the People are gathered together, even the People of the God of <hi>Abraham:</hi> for the Shields of the Earth be<g ref="char:EOLhyphen"/>long unto God: he is greatly exalted.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Judg.</hi> 5.11.</bibl> We will therefore rehearse the righteous Acts of the Lord:
+<pb facs="tcp:109978:3"/> even his righteous Acts towards the Inhabitants of the Villages of <hi>Israel.</hi>
+               </p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 78.4.</bibl> We will not hide them from our Children, shewing to the ge<g ref="char:EOLhyphen"/>nerations to come the praises of the Lord: and his Strength, and his wonderfull Works, that he hath done.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 78.6.</bibl> That the generation to come might know them, even the Children, which should be born: who shall arise, and declare them to their Children:</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 78.7.</bibl> That they may set their Hope in God: and not forget the works of God, but keep his Commandments.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 30.3.</bibl> Sing unto the Lord therefore, O ye Saints of his and let us give thanks for a remembrance of his Holiness.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 81.1.</bibl> Sing aloud unto God, our Strength: make a Joyfull Noise unto the God of <hi>Israel.</hi>
+               </p>
+            </div>
+            <div type="chorus">
+               <head>CHORUS.</head>
+               <q>The Lord is my Strength, and my Song: and he is become my Salvation: <bibl>
+                     <hi>Exod. 15.2.</hi>
+                  </bibl>
+               </q>
+            </div>
+            <div type="part">
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 31.7.</bibl> We will be glad, and rejoyce in thy mercy, O Lord: for thou hast considered our trouble, and hast known our Soul in Ad<g ref="char:EOLhyphen"/>versities.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 107.40.</bibl> For our Sins thou didst cast our Crown to the Ground: thou powredst contempt upon our Princes, and causedst them to wan<g ref="char:EOLunhyphen"/>der in the Wilderness, where there is no way.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 44.11.</bibl> Thou gavest us like Sheep appointed for slaughter: and didst scatter us among the Nations.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 44.13.</bibl> Thou madest us a reproach to our Neighbours: a Scorn, and a Derision to them, that are round about us.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 44.14.</bibl> Thou madest us a By-word among the Heathen: a shaking of the Head among the People.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 78.61.</bibl> Thou didst deliver thy Strength into Captivity, and thy Glory into the Enemie's hand.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 78.62.</bibl> Thou gavest thy People over also unto the Sword: and wast wroth with thine Inheritance.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 106.44.</bibl> Nevertheless, thou didst regard our Afflictions: and heardest our Cry, and didst repent, according to the Multitude of thy Mercies.</p>
+               <pb facs="tcp:109978:3"/>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 32.7.</bibl> But, as the Lord was our hiding-place, and did preserve us in the midst of our trouble: so at last he hath compassed us a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>out with Songs of Deliverance.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 78.65.</bibl> For the Lord did awake, as a man out of sleep: and like a <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighty man, that shouteth by reason of Wine.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 30.5.</bibl> His anger endureth, but a Moment; in his favour is life: Weep<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng may endure for a Night; but Joy cometh in the Morning.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 30.11.</bibl> God hath turned our Mourning into Dancing: he hath put <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>f our Sack-cloth, and girded us with Gladness;</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 30.12.</bibl> To the end, that our Tongues may sing praises unto thee, O Lord; and not be silent: O Lord our God, we will give <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hanks unto thee for Ever.</p>
+            </div>
+            <div type="chorus">
+               <head>CHORUS.</head>
+               <q>
+                  <p>The Salvation of <hi>Israel</hi> is come out of <hi>Sion,</hi> the Lord hath brought back the Captivity of his People: Therefore shall <hi>Jacob</hi> rejoyce, and <hi>Israel</hi> shall be glad: <bibl>
+                        <hi>Psal. 14.7.</hi>
+                     </bibl>
+                  </p>
+                  <p>O! that men would therefore praise the Lord for his goodness, and for his wonderous Works to the Chil<g ref="char:EOLhyphen"/>dren of Men: <bibl>
+                        <hi>Psal. 107.8.</hi>
+                     </bibl>
+                  </p>
+               </q>
+            </div>
+            <div type="part">
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 9.4.</bibl> Thou, O God, hast maintained my Right, and my Cause: <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ou satest in the Throne, judging right.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 9.5.</bibl> Thou hast rebuked the Rebellious: thou hast destroyed the <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icked; and hast put out their Name for Ever and Ever.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 37.35.</bibl> I have seen the Wicked in great power: and spreading him<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lf like a green Bay-tree.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 37.36.</bibl> Yet he passed away, and, lo! he was not: I sought him, but <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e could not be found.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 37.37.</bibl> Mark the perfect man, and behold the upright: for the End of that man is Peace.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 85.1.</bibl> Lord, thou hast been favourable unto thy Land: Thou hast <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rought back the Captivity of thy People.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 85.2.</bibl> Thou hast forgiven the Iniquity of thy People: Thou hast <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vered all their Sin.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 85.3.</bibl> Thou hast taken away all thy Wrath: Thou hast turned thy <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lf from the fierceness of thine Anger.</p>
+               <pb facs="tcp:109978:4"/>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 18.49.</bibl> Therefore will we give thanks unto thee, O Lord, among the People: and sing Praises unto thy Name in the great Con<g ref="char:EOLhyphen"/>gregation.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 81.1.</bibl> Sing aloud unto God, our Strength: make a Joyfull Noise unto the God of <hi>Israel.</hi>
+               </p>
+            </div>
+            <div type="chorus">
+               <head>CHORUS.</head>
+               <q>
+                  <p>O give thanks unto the Lord; for he is good: for his Mercy endureth for Ever.</p>
+                  <p>Let the Redeemed of the Lord say so: whom he hath redeemed from the hand of the Enemy:</p>
+                  <bibl>
+                     <hi>Psal. 106.1, 2,</hi>
+                  </bibl>
+               </q>
+            </div>
+            <div type="part">
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 46.8.</bibl> O come hither, and behold the Works of the Lord: what De<g ref="char:EOLhyphen"/>solations he hath made in the Earth.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 46.9.</bibl> He maketh Wars to cease unto the ends of the Earth: He breaketh the Bowe, and cutteth the Spear in sunder, and burn<g ref="char:EOLhyphen"/>eth the Charriots in the fire.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 65.7.</bibl> He hath stilled the noise of the Seas: the noise of their Waves, and the Tumult of the People.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 68.30.</bibl> He rebuked the Company of the Spear-men, the Multitude of the Bulls with the Calves of the People: till every one sub<g ref="char:EOLhyphen"/>mitteth himself with pieces of Silver: He hath scattered the People, that delight in War.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 75.3.</bibl> He hath broken the Arrows of the Bowe: the Shield, the Sword, and the Battle.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 98.1.</bibl> O! come therefore, let us sing unto the Lord a new Song, for he hath done marvailous things: His right Hand, and his holy Arme hath gotten him the Victory.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 60.4.</bibl> For he hath given a Banner to them, that fear him: that it may be displayed because of the Truth.</p>
+            </div>
+            <div type="chorus">
+               <head>CHORUS.</head>
+               <q>
+                  <p>The Lord is a Man of War: the Lord is his Name: <bibl>
+                        <hi>Exod. 15.3.</hi>
+                     </bibl>
+                  </p>
+                  <p>The Lord of Hosts is with us, the God of <hi>Jacob</hi> is our refuge: <bibl>
+                        <hi>Psal. 46.11.</hi>
+                     </bibl>
+                  </p>
+                  <p>O! clap your Hands therefore, all ye People: shout unto God with the voice of Triumph: <bibl>
+                        <hi>Ps. 47.1.</hi>
+                     </bibl>
+                  </p>
+               </q>
+            </div>
+            <div type="part">
+               <pb facs="tcp:109978:4"/>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 18, 50.</bibl> Great deliverance giveth he to the King: and shewed mercy <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Anointed, and to his Seed for evermore.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Judg.</hi> 5.13.</bibl> Then he made him, that remained, to have Dominion over <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nobles among the People: the Lord made him have Domi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on over the Mighty.</p>
+               <p>
+                  <bibl rend="small">2 <hi>Sam.</hi> 23.4.</bibl> And he shall be as the Light of the Morning, when the Sun <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eth, even a Morning without Clouds: as the tender Grass <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>inging out of the Earth, by clear shining after Rain.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 18.43.</bibl> Thou, O Lord, that hast delivered him from the strivings of <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> People: Thou, that hast made him head of those, that rose <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> against him:</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 21.5.</bibl> Let his Glory be still great in thy Salvation: increase dayly <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t Honour, and Majesty, which thou hast laid upon him.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Isay.</hi> 22.23.</bibl> Fasten him as a Nail in a Sure place: and let him be for a <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lorious Throne to his Father's house.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Isay.</hi> 22.24.</bibl> And hang upon him all the Glory of his Father's house: the <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fspring, and the Issue. And let all the People say <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="chorus">
+               <head>CHORUS.</head>
+               <q>
+                  <p>The Lord hear him in the day of his trouble; the Name of the God of <hi>Jacob</hi> defend him: <bibl>
+                        <hi>Psal. 20.1.</hi>
+                     </bibl>
+                  </p>
+                  <p>Send him help from the Sanctuary, and strengthen him out of <bibl>
+                        <hi>Sion. 2.</hi>
+                     </bibl>
+                  </p>
+                  <p>Grant him according to his own Heart's desire: and fulfill all his Councel. <bibl>
+                        <hi>Sion. 3.</hi>
+                     </bibl>
+                  </p>
+                  <p>We will rejoyce in thy Salvation, O Lord, and in the name of our God will we set up our Banners: The Lord fulfill all his Petitions. <bibl>
+                        <hi>Sion. 4.</hi>
+                     </bibl>
+                  </p>
+               </q>
+            </div>
+            <div type="part">
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 21.1.</bibl> The King shall joy in thy Strength, O Lord: and in thy Sal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation how greatly shall he rejoyce?</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 21.2.</bibl> Thou hast given him his heart's desire: and hast not withheld <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e request of his Lips.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 21.3.</bibl> For thou preventest him with the Blessings of Goodness: <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou hast set a Crown of pure Gold upon his head.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 21.6.</bibl> Thou hast made him most Blessed for ever: Thou hast made <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m exceeding glad with thy Countenance.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 21.7.</bibl> For the King trusteth in the Lord: and, through the mercy <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the most high, he shall not miscarry.</p>
+               <pb facs="tcp:109978:5"/>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 61.6.</bibl> Thou wilt prolong the King's life: and his Years, as man<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Generations.</p>
+            </div>
+            <div type="chorus">
+               <head>CHORUS.</head>
+               <q>
+                  <p>O satisfie him with a long life: and shew him th<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Salvation: <bibl>
+                        <hi>Psal. 91.16.</hi>
+                     </bibl>
+                  </p>
+                  <p>Keep thy mercy with him for evermore: and l<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> thy Covenant stand fast with him: <bibl>
+                        <hi>Psal. 89.28.</hi>
+                     </bibl>
+                  </p>
+                  <p>Make his Seed also to endure for Ever: and h<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Throne as the days of Heaven. <bibl>
+                        <hi>Psal. 89.29.</hi>
+                     </bibl>
+                  </p>
+                  <p>Cloath his Eemies with shame; but upon himse<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> let his Crown flourish: <bibl>
+                        <hi>Psal. 132.18.</hi>
+                     </bibl>
+                  </p>
+               </q>
+            </div>
+            <div type="part">
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 36.7.</bibl> How excellent is thy loving kindness, O Lord: therefore th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Children of men put their trust in the Shadow of thy Wings.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 73.25.</bibl> Whom have we in heaven, but Thee: and there is none upo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>right<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> earth, that we desire, besides Thee.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 40.5.</bibl> Many, O Lord our God, are thy wonderous Works, whic<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou hast done: and thy Thoughts, which are to usward, the<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cannot be reckoned up in order to Thee. If we should declin<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and speak of them: they are more, then can be Numbered.</p>
+               <p>
+                  <bibl rend="small">
+                     <hi>Psal.</hi> 68.35.</bibl> O Lord our God, thou art terrible out of thy holy places The God of <hi>Israel</hi> is he, that giveth strength and power unto h<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> people. Blessed be God.</p>
+            </div>
+            <div type="chorus">
+               <head>CHORUS.</head>
+               <q>
+                  <p>Rejoyce, rejoyce, O ye People: for the Lord <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be merciful unto his Land, and to his People: <bibl>
+                        <gap reason="illegible" resp="#murp" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <hi>32.43.</hi>
+                     </bibl>
+                  </p>
+                  <p>The Lord will give Strength unto his People <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Lord will bless his People with Peace: <bibl>
+                        <hi>Psal. 29.<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </bibl>
+                  </p>
+                  <p>For who is God, save the Lord? or who is a <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> save our God: <bibl>
+                        <hi>Psal. 18.31.</hi>
+                     </bibl>
+                  </p>
+                  <p>Blessed be the Lord God of <hi>Israel</hi> from eve<gap reason="illegible" resp="#murp" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ing to everlasting: and let all the people say <hi>Am<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> Praise ye the Lord: <bibl>
+                        <hi>Psal. 106.48.</hi>
+                     </bibl>
+                  </p>
+                  <p>
+                     <hi>Glory be to the Father,</hi> &amp;c. <hi>Amen.</hi>
+                  </p>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
